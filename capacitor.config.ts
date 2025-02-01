@@ -5,7 +5,7 @@ const config: CapacitorConfig = {
   appName: 'Window Calculator',
   webDir: 'dist',
   server: {
-    url: 'https://[project-id].lovableproject.com?forceHideBadge=true',
+    url: 'https://1d190d44-9ae4-42a6-bcbc-cdf5da7e8249.lovableproject.com',
     cleartext: true
   },
   android: {
